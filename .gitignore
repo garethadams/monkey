@@ -22,3 +22,6 @@ go.work
 
 # MacOS proprietary files
 .DS_Store
+
+# JetBrains Goland files
+.idea/
